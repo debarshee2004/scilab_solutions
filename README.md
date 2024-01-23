@@ -17,7 +17,7 @@ ylabel("Amplitude");
 
 title("Sine Wave");
 ```
-![Sine Wave](./assets/Sine%20Wave%20Function.png)
+![Sinc Wave](https://github.com/debarshee2004/scilab_solutions/assets/129538241/8d26880c-dcbf-4f1b-958e-1eca347cd99b)
 
 **Question 2.** Write a program in scilab software to generate an exponential wave.
 
@@ -34,7 +34,7 @@ ylabel("Amplitude");
 
 title("Exponential Wave");
 ```
-![Exponential](./assets/Exponential%20Wave.png)
+![Exponential Wave](https://github.com/debarshee2004/scilab_solutions/assets/129538241/d9c757b1-81b6-4dee-b72a-fac30c76514f)
 
 **Question 3.** Write a program in scilab software to generate an damped sine wave.
 
@@ -53,7 +53,7 @@ ylabel("Amplitude");
 
 title("Damped Sine Wave");
 ```
-![Damped](./assets/Damped%20Sine%20Wave.png)
+![Damped Sine Wave](https://github.com/debarshee2004/scilab_solutions/assets/129538241/11ae5dab-310e-497f-9236-8283fd61c250)
 
 **Question 4.** Write a program in scilab software to generate an sinc wave.
 
@@ -70,7 +70,7 @@ ylabel("Amplitude");
 
 title("Sinc Wave");
 ```
-![Sinc](./assets/Sinc%20Wave.png)
+![Sinc Wave](https://github.com/debarshee2004/scilab_solutions/assets/129538241/ec9b47d4-f723-4b1f-a8a9-69c4d9938e48)
 
 **Question 5.** Write a program in scilab software to generate an impulse wave.
 
@@ -87,7 +87,7 @@ ylabel("Amplitude");
 
 title("Impulse Wave");
 ```
-![Impulse](./assets/Impulse%20Wave.png)
+![Impulse Wave](https://github.com/debarshee2004/scilab_solutions/assets/129538241/edc6db97-9951-4d25-b426-903c9693a9a7)
 
 **Question 6.** Write a program in scilab software to generate an ramp wave.
 
@@ -105,4 +105,4 @@ ylabel("Amplitude");
 
 title("Ramp Wave");
 ```
-![Ramp](./assets/Ramp%20Wave.png)
+![Ramp Wave](https://github.com/debarshee2004/scilab_solutions/assets/129538241/a9e304fa-165c-441f-9dbd-2bf6ce4b0174)
