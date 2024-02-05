@@ -17,7 +17,7 @@ ylabel("Amplitude");
 
 title("Sine Wave");
 ```
-![Sinc Wave](https://github.com/debarshee2004/scilab_solutions/assets/129538241/8d26880c-dcbf-4f1b-958e-1eca347cd99b)
+![Select Example](https://github.com/debarshee2004/scilab_solutions/assets/129538241/316da5b5-1b05-46d5-b4dc-75bcc7733d18)
 
 **Question 2.** Write a program in scilab software to generate an exponential wave.
 
